@@ -1,61 +1,61 @@
-﻿system,schoolname,webpage,registration_hold,collection_agency_placement,transcript_hold,tax_offset
-CCCs,City College of San Francisco,"https://web.peralta.edu/business/student-financials/fees/
+﻿system,schoolname,registration_hold,collection_agency,transcript_hold,tax_offset,webpages
+CCCs,City College of San Francisco,Yes,,,,"https://web.peralta.edu/business/student-financials/fees/
 
 https://www.ccsf.edu/admissions-recordsregistration/billing-payments-refunds
 
-",Yes,,,
-CCCs,College of San Mateo,https://collegeofsanmateo.edu/fees/,Yes,Yes,,
-CCCs,De Anza College,https://www.deanza.edu/cashier/payment_faqs.html,Yes,,,
-CCCs,Diablo Valley College,https://www.dvc.edu/enrollment/admissions-records/fees.html,Yes,,,Yes
-CCCs,Foothill College,https://foothill.edu/reg/cashier/index.html,Yes,Yes,Yes,
-CCCs,Monterey Peninsula College,https://www.mpc.edu/student-services/college-success/student-rights-and-responsibilities,Yes,,Yes,
-CCCs,Ohlone College,https://www.ohlone.edu/admissions/fees#nonpayment,Yes,,,Yes
-CCCs,Peralta Colleges,"https://web.peralta.edu/business/student-financials/cotop-information-chancellors-office-tax-offset-program/
+"
+CCCs,College of San Mateo,Yes,Yes,,,https://collegeofsanmateo.edu/fees/
+CCCs,De Anza College,Yes,,,,https://www.deanza.edu/cashier/payment_faqs.html
+CCCs,Diablo Valley College,Yes,,,Yes,https://www.dvc.edu/enrollment/admissions-records/fees.html
+CCCs,Foothill College,Yes,Yes,Yes,,https://foothill.edu/reg/cashier/index.html
+CCCs,Monterey Peninsula College,Yes,,Yes,,https://www.mpc.edu/student-services/college-success/student-rights-and-responsibilities
+CCCs,Ohlone College,Yes,,,Yes,https://www.ohlone.edu/admissions/fees#nonpayment
+CCCs,Peralta Colleges,Yes,,,,"https://web.peralta.edu/business/student-financials/cotop-information-chancellors-office-tax-offset-program/
 
 https://web.peralta.edu/blog/peralta-colleges-to-erase-2-8-million-in-student-debt/
-",Yes,,,
-CCCs,San Jose Community College,https://www.sjcc.edu/future-students/admissions-and-records-office/fees-refunds,Yes,,Yes,
-CCCs,Skyline College,https://www.skylinecollege.edu/accreditation/assets/reports/evidence/SC-Catalog-Fees-2018-19.pdf,Yes,Yes,Yes,
-CSU,Cal Poly Pomona,https://catalog.calpoly.edu/financialinformation/,Yes,Yes,,Yes
-CSU,Cal Poly San Luis Obispo ,https://catalog.calpoly.edu/financialinformation/,Yes,Yes,,Yes
-CSU,CSU Bakersfield,https://www.csub.edu/bas/fiscal/studaccount/Student%20Financial%20Services/Collections/index.html,Yes,Yes,,
-CSU,CSU Channel Islands ,https://www.csuci.edu/sbs/cashierfaq.htm,Yes,Yes,,
-CSU,CSU Chico,"https://www.csuchico.edu/fin/_assets/documents/sfin-ar-mgmt-procedures.pdf
+"
+CCCs,San Jose Community College,Yes,,Yes,,https://www.sjcc.edu/future-students/admissions-and-records-office/fees-refunds
+CCCs,Skyline College,Yes,Yes,Yes,,https://www.skylinecollege.edu/accreditation/assets/reports/evidence/SC-Catalog-Fees-2018-19.pdf
+CSU,Cal Poly Pomona,Yes,Yes,,Yes,https://catalog.calpoly.edu/financialinformation/
+CSU,Cal Poly San Luis Obispo ,Yes,Yes,,Yes,https://catalog.calpoly.edu/financialinformation/
+CSU,CSU Bakersfield,Yes,Yes,,,https://www.csub.edu/bas/fiscal/studaccount/Student%20Financial%20Services/Collections/index.html
+CSU,CSU Channel Islands ,Yes,Yes,,,https://www.csuci.edu/sbs/cashierfaq.htm
+CSU,CSU Chico,Yes,Yes,,,"https://www.csuchico.edu/fin/_assets/documents/sfin-ar-mgmt-procedures.pdf
 
-https://www.csuchico.edu/sro/registration/step-by-step/step3.shtml",Yes,Yes,,
-CSU,CSU Dominguez Hills,https://www.csudh.edu/accounting-services/student-financial-services/collections/,Yes,Yes,,
-CSU,CSU East Bay ,https://www.csueastbay.edu/student-financial-services/fee-tuition-info.html,Yes,Yes,,
-CSU,CSU Fresno,http://www.fresnostate.edu/catalog/academic-regulations/fees.html,Yes,Yes,,Yes
-CSU,CSU Fullerton,https://sbs.fullerton.edu/services/payments/Collections.php,Yes,Yes,,Yes
-CSU,CSU Humboldt,https://studentfinancialservices.humboldt.edu/student-account-holds,Yes,,,
-CSU,CSU Long Beach,https://www.csulb.edu/student-records/registration-holds,Yes,,,Yes
-CSU,CSU Los Angeles,"https://www.calstatela.edu/al/prepare-registration
-https://www.calstatela.edu/finance-onestop/collection-repayment-agreements",Yes,Yes,,
-CSU,CSU Maritime,https://www.csum.edu/registrar/schedule/registration-process.html,Yes,Yes,,Yes
-CSU,CSU Monterey Bay ,https://csumb.edu/planning/registration-holds/,Yes,,,
-CSU,CSU Northridge,https://www.csun.edu/stufin/sa-student-collections,Yes,Yes,,Yes
-CSU,CSU Sacramento,https://www.csus.edu/apply/enrollment-costs-fees/payment/_internal/_documents/financialresponsibilityagreement.pdf,Yes,Yes,,
-CSU,CSU San Bernardino,https://www.csusb.edu/student-financial-services/services/11/collections,Yes,Yes,,Yes
-CSU,CSU San Marcos,https://www.csusm.edu/sfs/payments/past_due_student_accounts.html,Yes,Yes,,
-CSU,CSU Stanislaus,https://www.csus.edu/apply/enrollment-costs-fees/payment/_internal/_documents/financialresponsibilityagreement.pdf,Yes,Yes,,Yes
-CSU,San Diego State University,https://bfa.sdsu.edu/financial/student/Student%20Billing,Yes,Yes,,
-CSU,San Francisco State University,https://bursar.sfsu.edu/policies_and_procedures_guides/debts_and_fees_owed,Yes,Yes,,Yes
-CSU,San José State University,"https://catalog.sjsu.edu/content.php?catoid=2&navoid=109&hl=%22collection%22&returnto=search 
+https://www.csuchico.edu/sro/registration/step-by-step/step3.shtml"
+CSU,CSU Dominguez Hills,Yes,Yes,,,https://www.csudh.edu/accounting-services/student-financial-services/collections/
+CSU,CSU East Bay ,Yes,Yes,,,https://www.csueastbay.edu/student-financial-services/fee-tuition-info.html
+CSU,CSU Fresno,Yes,Yes,,Yes,http://www.fresnostate.edu/catalog/academic-regulations/fees.html
+CSU,CSU Fullerton,Yes,Yes,,Yes,https://sbs.fullerton.edu/services/payments/Collections.php
+CSU,CSU Humboldt,Yes,,,,https://studentfinancialservices.humboldt.edu/student-account-holds
+CSU,CSU Long Beach,Yes,,,Yes,https://www.csulb.edu/student-records/registration-holds
+CSU,CSU Los Angeles,Yes,Yes,,,"https://www.calstatela.edu/al/prepare-registration
+https://www.calstatela.edu/finance-onestop/collection-repayment-agreements"
+CSU,CSU Maritime,Yes,Yes,,Yes,https://www.csum.edu/registrar/schedule/registration-process.html
+CSU,CSU Monterey Bay ,Yes,,,,https://csumb.edu/planning/registration-holds/
+CSU,CSU Northridge,Yes,Yes,,Yes,https://www.csun.edu/stufin/sa-student-collections
+CSU,CSU Sacramento,Yes,Yes,,,https://www.csus.edu/apply/enrollment-costs-fees/payment/_internal/_documents/financialresponsibilityagreement.pdf
+CSU,CSU San Bernardino,Yes,Yes,,Yes,https://www.csusb.edu/student-financial-services/services/11/collections
+CSU,CSU San Marcos,Yes,Yes,,,https://www.csusm.edu/sfs/payments/past_due_student_accounts.html
+CSU,CSU Stanislaus,Yes,Yes,,Yes,https://www.csus.edu/apply/enrollment-costs-fees/payment/_internal/_documents/financialresponsibilityagreement.pdf
+CSU,San Diego State University,Yes,Yes,,,https://bfa.sdsu.edu/financial/student/Student%20Billing
+CSU,San Francisco State University,Yes,Yes,,Yes,https://bursar.sfsu.edu/policies_and_procedures_guides/debts_and_fees_owed
+CSU,San José State University,Yes,,,,"https://catalog.sjsu.edu/content.php?catoid=2&navoid=109&hl=%22collection%22&returnto=search 
 
-https://www.sjsu.edu/openuniversity/academic/fees-refunds/#:~:text=with%20extenuating%20circumstances.-,A%20%2445%20late%20fee%20will%20be%20assessed%20depending%20on%20your,classes%20being%20dropped%20without%20notice.",Yes,,,
-CSU,Sonoma State University,https://catalog.sonoma.edu/content.php?catoid=6&navoid=700&hl=fees+and+debts&returnto=search#fees-and-debts-owed-to-the-institution,Yes,Yes,No,Yes
-UC,UC Berkeley,https://studentbilling.berkeley.edu/billing/delinquent-accounts,Yes,Yes,,Yes
-UC,UC Davis,https://financeandbusiness.ucdavis.edu/student-resources/accounting/loans,Yes,Yes,,Yes
-UC,UC Irvine,https://fs.uci.edu/student-billing/financial-holds.php,Yes,Yes,Yes,
-UC,UC Merced,"https://perma.cc/XB6G-RLHL 
+https://www.sjsu.edu/openuniversity/academic/fees-refunds/#:~:text=with%20extenuating%20circumstances.-,A%20%2445%20late%20fee%20will%20be%20assessed%20depending%20on%20your,classes%20being%20dropped%20without%20notice."
+CSU,Sonoma State University,Yes,Yes,No,Yes,https://catalog.sonoma.edu/content.php?catoid=6&navoid=700&hl=fees+and+debts&returnto=search#fees-and-debts-owed-to-the-institution
+UC,UC Berkeley,Yes,Yes,,Yes,https://studentbilling.berkeley.edu/billing/delinquent-accounts
+UC,UC Davis,Yes,Yes,,Yes,https://financeandbusiness.ucdavis.edu/student-resources/accounting/loans
+UC,UC Irvine,Yes,Yes,Yes,,https://fs.uci.edu/student-billing/financial-holds.php
+UC,UC Merced,Yes,Yes,,Yes,"https://perma.cc/XB6G-RLHL 
 
 https://catalog.ucmerced.edu/content.php?catoid=16&navoid=1517
 
 https://bfs.ucmerced.edu/deptstaff-directory/financial-accounting-services/student-business-services/faq
 
-https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/statement_of_financial_responsibility.pdf",Yes,Yes,,Yes
-UC,UC Riverside,https://registrar.ucr.edu/tuition-fees/late-fees,Yes,,Yes,
-UC,UC San Diego,https://support.ucsd.edu/students?id=kb_article_view&sys_kb_id=2f0857b61bfb58d0df40ed7dee4bcbe8,Yes,Yes,,
-UC,UC Santa Barbara,,Yes,Yes,,
-UC,UC Santa Cruz,https://perma.cc/JV9A-L8W5,Yes,,Yes,Yes
-UC,UCLA,https://perma.cc/73XD-GTRV,Yes,Yes,,
+https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/statement_of_financial_responsibility.pdf"
+UC,UC Riverside,Yes,,Yes,,https://registrar.ucr.edu/tuition-fees/late-fees
+UC,UC San Diego,Yes,Yes,,,https://support.ucsd.edu/students?id=kb_article_view&sys_kb_id=2f0857b61bfb58d0df40ed7dee4bcbe8
+UC,UC Santa Barbara,Yes,Yes,,,
+UC,UC Santa Cruz,Yes,,Yes,Yes,https://perma.cc/JV9A-L8W5
+UC,UCLA,Yes,Yes,,,https://perma.cc/73XD-GTRV
